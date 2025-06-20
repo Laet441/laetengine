@@ -1,2 +1,2 @@
 [init]
-file.create_dir("FolderOmg")
+file.create_dir(FolderOmg)
