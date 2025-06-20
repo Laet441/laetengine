@@ -1,2 +1,2 @@
 [init]
-random text
+file.create_dir("FolderOmg")
